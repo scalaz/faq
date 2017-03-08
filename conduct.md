@@ -349,5 +349,5 @@
   project, leading to the excellent result up to 2013.
 
   There is no compromise on executing this idea. All other principles rest on
-  this one. As a thought exiercise, this is how you might come to know that
+  this one. As a thought exercise, this is how you might come to know that
   "steward of Scalaz" and much other nonsense never, ever existed. Try it.
