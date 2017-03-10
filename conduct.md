@@ -222,7 +222,7 @@
   The impositions you see here are powerless, and false, despite the
   grandstanding. There is no obligation to correct it.
 
-  "pfft I am insulted by boy bands" -- Steve Hughes
+  "pfft I'm offended by boy bands" -- Steve Hughes
 
   > At all. Under no circumstances.
 
