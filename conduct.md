@@ -17,9 +17,9 @@ up with wildly different interpretations from literal to inferred -- even among
 external observers.
 
 Furthermore, we have noticed that many bullies conform to the rules, rather
-than violate them.  We do not wish to merely eliminate aggression, only to
-bolster channels for passive aggression.  Furthermore, aggression and passion
-are entangled in ways no codified rule can disentangle.
+than violate them.  We do not wish to merely eliminate overt bullying, only to
+bolster channels for passive bullying.  Furthermore, codified rules too often
+falsely capture passion as bullying.
 
 Scalaz accepts these limitations, and invites people to participate in spite of
 this problem.
