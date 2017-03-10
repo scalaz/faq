@@ -16,13 +16,13 @@ case.  By the time we consider parody, rhetoric, and ulterior motives, we end
 up with wildly different interpretations from literal to inferred -- even among
 external observers.
 
-Furthermore, we have noticed that many bullies conform to the rules, rather
-than violate them.  We do not wish to merely eliminate overt bullying, only to
-bolster channels for passive bullying.  Furthermore, codified rules too often
-falsely capture passion as bullying.
+Furthermore, we have noticed that many bullies conform to rules, rather than
+violate them.  We do not wish to bolster channels for passive bullying by
+providing a crude framework of policy.  We believe no such policy can be
+codified well.
 
-Scalaz accepts these limitations, and invites people to participate in spite of
-this problem.
+Scalaz accepts these limitations, and invites everyone to participate in spite
+of this problem.
 
 If conversation deviates from the goal of technical excellence, please fastly
 say as much.  For example, you may say:
@@ -31,18 +31,18 @@ say as much.  For example, you may say:
     technical solution X, which I believe is inferior for reasons Y.  I
     propose Z.
 
-Also, ad hominem attacks serve no purpose in driving towards technical
-excellence.  If you ever find that a critique has ever targeted a person, and
-not an idea, then say as much clearly:
+As another example, ad hominem attacks serve no purpose in driving towards
+technical excellence.  If you ever find that a critique has ever targeted a
+person, and not an idea, then say as much clearly:
 
     That was an ad hominem attack, and does not help or hurt the technical
     argument of X.  Can we please keep to the technical discussion?
 
 Calling someone rude, insulting, or offensive merely feeds the exact discussion
 we seek to avoid.  You are free to do so, though, and we will hopefully discuss
-ways to move the discussion forward.  Furthermore, we are in no position to
-police profanity and tone, as we are in no position to police the rebuke of
-profanity and tone.  Everyone deserves the right to express their human
+ways to move the discussion forward.  Additionally, we are in no position to
+police profanity and tone, just as we are in no position to police the rebuke
+of profanity and tone.  Everyone deserves the right to express their human
 condition.  All we ask is that everyone try to remember the goal of technical
 excellence.
 
